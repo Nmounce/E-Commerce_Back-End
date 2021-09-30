@@ -6,9 +6,10 @@
 
 Employee Tracker is an e-commerce site that has been modified from starter code
 to conifure the integration of Express.js API in order to utilize Sequelize to
-interact with MySql database.
+interact with MySql database. **Not fully functional**
 
 ![](resources/code-snippet1.PNG)
+![](resources/walkthrough.gif)
 
 ## Table of Contents
 
